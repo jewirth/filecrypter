@@ -1,7 +1,8 @@
 /*
  * filecrypter.c
  *
- * Author: Jens Wirth jw@snej.de
+ * Version: 0.1
+ * Author : Jens Wirth jw@snej.de
  * 
  * This tool encrypts a file using another file as password
  *
