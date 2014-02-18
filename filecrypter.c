@@ -2,13 +2,13 @@
  * filecrypter.c
  *
  * Version: 0.1
- * Author : Jens Wirth jw@snej.de
+ * Author : Jens Wirth <jw@snej.de>
  * 
  * This tool encrypts a file using another file as password
  *
  * ----------------------------------------------------------------------------
  * "THE BEER-WARE LICENSE" (Revision 42):
- * <phk@FreeBSD.ORG> wrote this file. As long as you retain this notice you
+ * <jw@snej.de> wrote this file. As long as you retain this notice you
  * can do whatever you want with this stuff. If we meet some day, and you think
  * this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp
  * ----------------------------------------------------------------------------
